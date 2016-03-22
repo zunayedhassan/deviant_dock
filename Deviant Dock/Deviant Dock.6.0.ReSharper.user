@@ -1,0 +1,1577 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:PrimaryRingySettings.cs" caret="114" fromTop="5" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:PrimaryDockySettings.cs" caret="119" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:GlassEffect.cs" caret="0" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyIconSettingsWindow.cs" caret="1460" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyIconSettingsListViewItem.cs" caret="2184" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockListViewItem.cs" caret="621" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomSlider.cs" caret="463" fromTop="16" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomMenuItem.cs" caret="622" fromTop="24" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomGroupBox.cs" caret="572" fromTop="19" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomComboBox.cs" caret="422" fromTop="16" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomButton.cs" caret="443" fromTop="10" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AnimatedIcon.cs" caret="1699" fromTop="0" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:IconSettings.cs" caret="385" fromTop="12" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Separator.cs" caret="188" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:RingyOptionsWindow.cs" caret="7807" fromTop="79" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomLabel.cs" caret="355" fromTop="14" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomImage.cs" caret="287" fromTop="3" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:RingyIconConfigurationCheckBox.cs" caret="1702" fromTop="11" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AddRingyIconWindow.cs" caret="586" fromTop="18" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Docky.cs" caret="58957" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:LauncherInfo.cs" caret="162" fromTop="5" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AddDockyIconWindow.cs" caret="5509" fromTop="52" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomTextBlock.cs" caret="361" fromTop="14" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyOptionsTabItem.cs" caret="175" fromTop="7" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Ringy.cs" caret="306" fromTop="10" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyOptionsWindow.cs" caret="8889" fromTop="124" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="771" fromTop="22" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="628" fromTop="20" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="445" fromTop="8" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:GlobalSettingsPath.cs" caret="48" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AddDockyIconWindow.cs" caret="5509" fromTop="6" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyOptionsWindow.cs" caret="2524" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="8999" fromTop="17" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="416" fromTop="11" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="457" fromTop="13" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="14853" fromTop="21" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="1991" fromTop="12" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="178" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyOptionsWindow.cs" caret="7099" fromTop="14" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="280" fromTop="11" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:DockyOptionsWindow.cs" caret="9478" fromTop="16" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Docky.cs" caret="31268" fromTop="26" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Docky.cs" caret="59655" fromTop="29" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Ringy.cs" caret="5306" fromTop="23" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:Ringy.cs" caret="29506" fromTop="28" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:CustomTextBlock.cs" caret="361" fromTop="14" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="714" fromTop="21" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="595" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="465" fromTop="9" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="670" fromTop="8" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="1473" fromTop="21" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="416" fromTop="7" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="716" fromTop="14" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutWindow.cs" caret="1297" fromTop="22" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="492" fromTop="7" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="1199" fromTop="20" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="209" fromTop="3" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:AboutStackPanel.cs" caret="1862" fromTop="22" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:MainWindow.xaml.cs" caret="2" fromTop="1" />
+      <File id="D3A7D87C-71F3-4D69-ADBD-882F5A9E4F90/f:GlobalSettingsPath.cs" caret="762" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Deviant_Dock.MainWindow">
+      <Item value="Title" priority="54" />
+      <Item value="Width" priority="134" />
+      <Item value="Height" priority="108" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="MouseLeftButtonDown" priority="26" />
+      <Item value="DragMove`0" priority="26" />
+      <Item value="WindowState" priority="26" />
+      <Item value="Hide`0" priority="80" />
+      <Item value="Icon" priority="53" />
+      <Item value="ContextMenu" priority="26" />
+      <Item value="IsActive" priority="26" />
+      <Item value="Visibility" priority="26" />
+      <Item value="Close`0" priority="80" />
+      <Item value="ResizeMode" priority="55" />
+      <Item value="Left" priority="26" />
+      <Item value="Top" priority="26" />
+      <Item value="Topmost" priority="26" />
+      <Item value="dockyListViewItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="this" priority="12174" />
+      <Item value="CenterScreen" priority="101" />
+      <Item value="Deviant_Dock" priority="191" />
+      <Item value="GlassEffect`0" priority="191" />
+      <Item value="true" priority="4223" />
+      <Item value="Canvas`0" priority="735" />
+      <Item value="new" priority="17909" />
+      <Item value="Canvas" priority="674" />
+      <Item value="deviantDockCanvas" priority="63" />
+      <Item value="None" priority="50" />
+      <Item value="private" priority="7647" />
+      <Item value="void" priority="5215" />
+      <Item value="object" priority="3520" />
+      <Item value="EventArgs`0" priority="3360" />
+      <Item value="height" priority="1951" />
+      <Item value="bitmapImage" priority="31" />
+      <Item value="CustomImage`0" priority="767" />
+      <Item value="CustomImage" priority="1132" />
+      <Item value="string" priority="5041" />
+      <Item value="const" priority="31" />
+      <Item value="closeImage" priority="288" />
+      <Item value="controlButtonImageName" priority="191" />
+      <Item value="minimizeImage" priority="415" />
+      <Item value="public" priority="4318" />
+      <Item value="Console`0" priority="31" />
+      <Item value="ControlButton`0" priority="31" />
+      <Item value="int" priority="2819" />
+      <Item value="thickness" priority="2312" />
+      <Item value="FontEastAsianWidths`0" priority="31" />
+      <Item value="ControlButton" priority="28" />
+      <Item value="imageList" priority="95" />
+      <Item value="imageIndex" priority="63" />
+      <Item value="currentIndex" priority="287" />
+      <Item value="Thickness`0" priority="2565" />
+      <Item value="width" priority="2399" />
+      <Item value="Thickness" priority="2523" />
+      <Item value="Minimized" priority="16" />
+      <Item value="deviantDockMainCanvas" priority="223" />
+      <Item value="try" priority="607" />
+      <Item value="Icon" priority="122" />
+      <Item value="TextBlock`0" priority="127" />
+      <Item value="TextBlock" priority="961" />
+      <Item value="Text" priority="1055" />
+      <Item value="Margin" priority="222" />
+      <Item value="ListView`0" priority="95" />
+      <Item value="Windows" priority="647" />
+      <Item value="Controls" priority="215" />
+      <Item value="ListView" priority="86" />
+      <Item value="dockItemListView" priority="511" />
+      <Item value="do" priority="31" />
+      <Item value="NotifyIcon`0" priority="63" />
+      <Item value="notifyIcon" priority="352" />
+      <Item value="notifyIconContextMenu" priority="383" />
+      <Item value="MenuItem" priority="231" />
+      <Item value="restoreNotifyIconMenuItem" priority="95" />
+      <Item value="exitNotifyIconMenuItem" priority="159" />
+      <Item value="NotifyIcon" priority="28" />
+      <Item value="System" priority="758" />
+      <Item value="Forms" priority="134" />
+      <Item value="icon" priority="224" />
+      <Item value="if" priority="4063" />
+      <Item value="false" priority="2463" />
+      <Item value="Visible" priority="271" />
+      <Item value="Button`0" priority="159" />
+      <Item value="exitButton" priority="351" />
+      <Item value="Button" priority="290" />
+      <Item value="CustomButton`0" priority="223" />
+      <Item value="content" priority="31" />
+      <Item value="CustomButton" priority="579" />
+      <Item value="buttonContent" priority="543" />
+      <Item value="imageName" priority="1023" />
+      <Item value="timeout" priority="31" />
+      <Item value="tipTitle" priority="31" />
+      <Item value="tipText" priority="31" />
+      <Item value="tipIcon" priority="31" />
+      <Item value="helpButton" priority="447" />
+      <Item value="Height" priority="192" />
+      <Item value="Diagnostics" priority="161" />
+      <Item value="Process`0" priority="134" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="MessageBox`0" priority="2037" />
+      <Item value="messageBoxText" priority="191" />
+      <Item value="caption" priority="63" />
+      <Item value="MessageBoxIcon`0" priority="95" />
+      <Item value="button" priority="96" />
+      <Item value="DockListViewItem`0" priority="127" />
+      <Item value="DockPanel`0" priority="127" />
+      <Item value="dockPanel" priority="128" />
+      <Item value="DockPanel" priority="28" />
+      <Item value="StackPanel`0" priority="543" />
+      <Item value="StackPanel" priority="436" />
+      <Item value="DockListViewItem" priority="173" />
+      <Item value="title" priority="835" />
+      <Item value="version" priority="31" />
+      <Item value="description" priority="64" />
+      <Item value="dockyListViewItem" priority="383" />
+      <Item value="leftStackPanel" priority="255" />
+      <Item value="Dock`0" priority="127" />
+      <Item value="rightStackPanel" priority="351" />
+      <Item value="iconStackPanel" priority="63" />
+      <Item value="textStackPanel" priority="159" />
+      <Item value="InitializingNewItemEventArgs`0" priority="127" />
+      <Item value="Vertical" priority="101" />
+      <Item value="InitializingNewItemEventHandler`0" priority="127" />
+      <Item value="versionNo" priority="31" />
+      <Item value="FontStyle" priority="197" />
+      <Item value="FontWeight" priority="164" />
+      <Item value="FontVariants`0" priority="32" />
+      <Item value="FontWeights`0" priority="32" />
+      <Item value="Horizontal" priority="84" />
+      <Item value="addButton" priority="319" />
+      <Item value="removeButton" priority="479" />
+      <Item value="Right" priority="50" />
+      <Item value="Center" priority="67" />
+      <Item value="SolidColorBrush" priority="724" />
+      <Item value="Colors`0" priority="767" />
+      <Item value="rightCanvas" priority="31" />
+      <Item value="NoResize" priority="135" />
+      <Item value="enum" priority="127" />
+      <Item value="InitialDockConfiguration`0" priority="63" />
+      <Item value="PrimarySettings`0" priority="127" />
+      <Item value="bool" priority="540" />
+      <Item value="PrimarySettings" priority="57" />
+      <Item value="currentPrimarySettings" priority="415" />
+      <Item value="else" priority="2111" />
+      <Item value="ringyListViewItem" priority="255" />
+      <Item value="catch" priority="31" />
+      <Item value="exception" priority="32" />
+      <Item value="Measure`0" priority="31" />
+      <Item value="readPrimarySettingsException" priority="63" />
+      <Item value="MessageBoxImage`0" priority="95" />
+      <Item value="MessageBoxButtons`0" priority="31" />
+      <Item value="while" priority="63" />
+      <Item value="break" priority="1439" />
+      <Item value="for" priority="255" />
+      <Item value="i" priority="479" />
+      <Item value="QueryCursorEvent" priority="31" />
+      <Item value="savePrimarySettings`0" priority="191" />
+      <Item value="ref" priority="2463" />
+      <Item value="SystemParameter`0" priority="31" />
+      <Item value="Docky`0" priority="127" />
+      <Item value="Docky" priority="57" />
+      <Item value="docky" priority="257" />
+      <Item value="Hidden" priority="33" />
+      <Item value="double" priority="63" />
+      <Item value="#region" priority="63" />
+      <Item value="#endregion" priority="63" />
+      <Item value="PrimaryDockySettings`0" priority="159" />
+      <Item value="PrimaryDockySettings" priority="57" />
+      <Item value="currentPrimaryDockySettings" priority="3935" />
+      <Item value="FileStream`0" priority="31" />
+      <Item value="primaryDockySettingsInput" priority="31" />
+      <Item value="File`0" priority="222" />
+      <Item value="loadPrimaryDockySettings`0" priority="31" />
+      <Item value="path" priority="350" />
+      <Item value="case" priority="1375" />
+      <Item value="resetDocky`0" priority="63" />
+      <Item value="canvas" priority="1092" />
+      <Item value="Color`0" priority="405" />
+      <Item value="Media" priority="134" />
+      <Item value="r" priority="319" />
+      <Item value="g" priority="319" />
+      <Item value="b" priority="287" />
+      <Item value="STANDARD_DOCKY_BACKGROUND_WIDTH" priority="320" />
+      <Item value="STANDARD_EDGE_WIDTH" priority="32" />
+      <Item value="STANDARD_DOCKY_SEPARATOR_WIDTH" priority="128" />
+      <Item value="SystemParameters`0" priority="127" />
+      <Item value="SystemIcons`0" priority="31" />
+      <Item value="SystemFonts`0" priority="64" />
+      <Item value="STANDARD_TASKBAR_HEIGHT" priority="63" />
+      <Item value="MainWindow`0" priority="63" />
+      <Item value="mainDockyBackgroundCanvas" priority="479" />
+      <Item value="STANDARD_DOCKY_BACKGROUND_HEIGHT" priority="287" />
+      <Item value="dockyWindowDimensionA" priority="63" />
+      <Item value="dockyWindowDimensionB" priority="63" />
+      <Item value="ContextMenu" priority="482" />
+      <Item value="Items" priority="127" />
+      <Item value="contextMenu" priority="1060" />
+      <Item value="MenuItem`0" priority="411" />
+      <Item value="exit" priority="63" />
+      <Item value="ex" priority="63" />
+      <Item value="contextMenu1" priority="63" />
+      <Item value="leftBackgroundImage" priority="159" />
+      <Item value="resetBackground`0" priority="31" />
+      <Item value="RotateTransform" priority="144" />
+      <Item value="rotateAngle" priority="63" />
+      <Item value="midBackgroundImage" priority="95" />
+      <Item value="Length" priority="134" />
+      <Item value="switch" priority="511" />
+      <Item value="left" priority="1919" />
+      <Item value="top" priority="1983" />
+      <Item value="right" priority="1887" />
+      <Item value="bottom" priority="1919" />
+      <Item value="LEFT" priority="159" />
+      <Item value="TOP" priority="191" />
+      <Item value="STANDARD_DOCKY_EDGE_WIDTH" priority="159" />
+      <Item value="Left" priority="80" />
+      <Item value="angle" priority="191" />
+      <Item value="ICollection" priority="31" />
+      <Item value="rightBackgroundImage" priority="31" />
+      <Item value="ImageSource`0" priority="85" />
+      <Item value="AnimatedIcon`0" priority="319" />
+      <Item value="base" priority="191" />
+      <Item value="iconTitle" priority="1954" />
+      <Item value="target" priority="2273" />
+      <Item value="hoaverEffect" priority="95" />
+      <Item value="clickEffect" priority="127" />
+      <Item value="ValidationResult`0" priority="63" />
+      <Item value="List" priority="223" />
+      <Item value="AnimatedIconSettings`0" priority="31" />
+      <Item value="List&lt;AnimatedIconSettings&gt;" priority="28" />
+      <Item value="Serializable" priority="63" />
+      <Item value="static" priority="734" />
+      <Item value="currentDockyIconSettings" priority="1279" />
+      <Item value="IconSettings" priority="840" />
+      <Item value="IconSettings`0" priority="671" />
+      <Item value="imageLocation" priority="1567" />
+      <Item value="Separator`0" priority="31" />
+      <Item value="separatorImage" priority="31" />
+      <Item value="return" priority="223" />
+      <Item value="using" priority="310" />
+      <Item value="Stream`0" priority="30" />
+      <Item value="mode" priority="30" />
+      <Item value="FileMode`0" priority="30" />
+      <Item value="foreach" priority="351" />
+      <Item value="animatedIcon" priority="353" />
+      <Item value="AnimatedIcon" priority="173" />
+      <Item value="iconNo" priority="1023" />
+      <Item value="dockyIconSettings" priority="640" />
+      <Item value="STANDARD_DOCKY_ICON_DIMENSION" priority="575" />
+      <Item value="currentLeft" priority="159" />
+      <Item value="currentRight" priority="31" />
+      <Item value="loadPrimaryDockySettingsException" priority="63" />
+      <Item value="currentTop" priority="31" />
+      <Item value="eventArgs" priority="2441" />
+      <Item value="Animation" priority="26" />
+      <Item value="ScaleTransform`0" priority="95" />
+      <Item value="ScaleTransform" priority="57" />
+      <Item value="zoomAnimationScaleTransform" priority="127" />
+      <Item value="zoomAnimationTransformGroup" priority="31" />
+      <Item value="DoubleAnimation`0" priority="287" />
+      <Item value="DoubleAnimation" priority="202" />
+      <Item value="zoomDoubleAnimation" priority="127" />
+      <Item value="primaryDockySettings" priority="804" />
+      <Item value="zoomAnimation`0" priority="31" />
+      <Item value="startAnimation`0" priority="63" />
+      <Item value="effect" priority="415" />
+      <Item value="fadeDoubleAnimation" priority="127" />
+      <Item value="fadeAnimation`0" priority="31" />
+      <Item value="TransformGroup`0" priority="63" />
+      <Item value="TransformGroup" priority="57" />
+      <Item value="RotateTransform`0" priority="31" />
+      <Item value="rotateTransform" priority="32" />
+      <Item value="rotateAnimationRotateTransform" priority="31" />
+      <Item value="rotateAnimationTransformgroup" priority="31" />
+      <Item value="rotateAnimation`0" priority="63" />
+      <Item value="centerX" priority="31" />
+      <Item value="centerY" priority="31" />
+      <Item value="rotateDoubleAnimation" priority="95" />
+      <Item value="jumpAnimationScaleTransformGroup" priority="63" />
+      <Item value="jumpDoubleAnimation" priority="383" />
+      <Item value="swingAnimation`0" priority="31" />
+      <Item value="screenPosition" priority="255" />
+      <Item value="STANDARD_ICON_DIMENSION" priority="479" />
+      <Item value="MARGINS`0" priority="31" />
+      <Item value="margin" priority="32" />
+      <Item value="doubleAnimation" priority="193" />
+      <Item value="MarginProperty" priority="31" />
+      <Item value="MARGINS" priority="28" />
+      <Item value="iconImage" priority="607" />
+      <Item value="springAnimationScaleTransformGroup" priority="63" />
+      <Item value="ToolTip" priority="31" />
+      <Item value="Content" priority="63" />
+      <Item value="Background" priority="128" />
+      <Item value="Foreground" priority="32" />
+      <Item value="FontSize" priority="131" />
+      <Item value="ConsoleColor`0" priority="31" />
+      <Item value="FontFamily" priority="156" />
+      <Item value="FontFamily`0" priority="32" />
+      <Item value="DragEventArgs`0" priority="31" />
+      <Item value="dragEventArgs" priority="162" />
+      <Item value="FileInfo`0" priority="127" />
+      <Item value="FileInfo" priority="58" />
+      <Item value="filename" priority="511" />
+      <Item value="refreshDocky`0" priority="767" />
+      <Item value="saveDockyIconSettings`0" priority="287" />
+      <Item value="createDockyIconSettings`0" priority="31" />
+      <Item value="savePrimarydockySettings`0" priority="95" />
+      <Item value="filenames" priority="31" />
+      <Item value="getIconTitle`0" priority="31" />
+      <Item value="savePrimaryDockySettings`0" priority="735" />
+      <Item value="Directory`0" priority="447" />
+      <Item value="IO" priority="161" />
+      <Item value="CheckSettingsDirectory`0" priority="63" />
+      <Item value="CheckSettingsDirectory" priority="28" />
+      <Item value="checkSettingsDirectory" priority="32" />
+      <Item value="finally" priority="63" />
+      <Item value="imageSource" priority="257" />
+      <Item value="IsExternal" priority="95" />
+      <Item value="initializeAnimatedIcon`0" priority="31" />
+      <Item value="info" priority="32" />
+      <Item value="shortcut" priority="63" />
+      <Item value="FileToIconConverter`0" priority="31" />
+      <Item value="fileToIconConverter" priority="128" />
+      <Item value="FileToIconConverter" priority="28" />
+      <Item value="File" priority="189" />
+      <Item value="IServiceProvider`0" priority="31" />
+      <Item value="Point`0" priority="31" />
+      <Item value="cursorPosition" priority="63" />
+      <Item value="mouseEventArgs" priority="64" />
+      <Item value="Window`0" priority="63" />
+      <Item value="Window" priority="57" />
+      <Item value="Header" priority="95" />
+      <Item value="menuItem" priority="1731" />
+      <Item value="RoutedEventHandler" priority="145" />
+      <Item value="CustomRemoveMenuItem`0" priority="31" />
+      <Item value="iconSettings" priority="1477" />
+      <Item value="loadDockyIconSettings`0" priority="31" />
+      <Item value="removeMenuItem" priority="383" />
+      <Item value="loadContextMenu`0" priority="95" />
+      <Item value="removeMenuItems" priority="95" />
+      <Item value="interface" priority="30" />
+      <Item value="getRemoveMenuItem`0" priority="31" />
+      <Item value="Object`0" priority="32" />
+      <Item value="Inline`0" priority="63" />
+      <Item value="delegate" priority="230" />
+      <Item value="routedEventArgs" priority="197" />
+      <Item value="ContextMenu`0" priority="63" />
+      <Item value="dockyContextMenu" priority="575" />
+      <Item value="refreshRemoveMenuItem`0" priority="127" />
+      <Item value="CustomMenuItem`0" priority="193" />
+      <Item value="text" priority="2431" />
+      <Item value="initializeMenuItem`0" priority="31" />
+      <Item value="CustomMenuItem" priority="1391" />
+      <Item value="addMenuItem" priority="575" />
+      <Item value="pathAddMenuItem" priority="95" />
+      <Item value="separatorAddMenuItem" priority="31" />
+      <Item value="null" priority="127" />
+      <Item value="recycleBinAddMenuItem" priority="95" />
+      <Item value="controlPanelAddMenuItem" priority="95" />
+      <Item value="AddHandler`0" priority="31" />
+      <Item value="dockySettingsAddMenuItem" priority="63" />
+      <Item value="organizeIconsMenuItems" priority="63" />
+      <Item value="dockySettingsMenuItem" priority="31" />
+      <Item value="quitMenuItem" priority="63" />
+      <Item value="status" priority="447" />
+      <Item value="gadgetsMenuItem" priority="63" />
+      <Item value="NotifyIconMenuItem`0" priority="159" />
+      <Item value="NotifyIconMenuItem" priority="290" />
+      <Item value="gadgetsNotifyIconMenuItem" priority="95" />
+      <Item value="dockyNotifyIconMenuItem" priority="159" />
+      <Item value="ringyNotifyIconMenuItem" priority="159" />
+      <Item value="notifyIconMenuItem" priority="31" />
+      <Item value="AddIconWindow`0" priority="95" />
+      <Item value="fileAddMenuItem" priority="31" />
+      <Item value="AddIconWindow" priority="57" />
+      <Item value="type" priority="575" />
+      <Item value="fileAddIconWindow" priority="95" />
+      <Item value="ToolWindow" priority="84" />
+      <Item value="iconButton" priority="319" />
+      <Item value="unchecked" priority="31" />
+      <Item value="uniformLength" priority="543" />
+      <Item value="Label`0" priority="127" />
+      <Item value="topScreenPositionMenuItem" priority="383" />
+      <Item value="screenPositionMenuItem" priority="479" />
+      <Item value="bottomScreenPositionMenuItem" priority="383" />
+      <Item value="leftScreenPositionMenuItem" priority="383" />
+      <Item value="rightScreenPositionMenuItem" priority="415" />
+      <Item value="setDockyScreenPosition`0" priority="63" />
+      <Item value="addScreenPositionMenuItem`0" priority="31" />
+      <Item value="Visibility" priority="31" />
+      <Item value="Label" priority="86" />
+      <Item value="titleLabel" priority="287" />
+      <Item value="targetLabel" priority="159" />
+      <Item value="TextBox`0" priority="63" />
+      <Item value="titleTextBox" priority="319" />
+      <Item value="TextBox" priority="115" />
+      <Item value="targetTextBox" priority="607" />
+      <Item value="browseButton" priority="319" />
+      <Item value="saveButton" priority="607" />
+      <Item value="closeButton" priority="640" />
+      <Item value="PrintDialogException`0" priority="63" />
+      <Item value="OpenFileDialog" priority="57" />
+      <Item value="addFileOpenFileDialog" priority="287" />
+      <Item value="DialogResult" priority="159" />
+      <Item value="result" priority="65" />
+      <Item value="Nullable`0" priority="31" />
+      <Item value="Nullable" priority="63" />
+      <Item value="response" priority="191" />
+      <Item value="PathFigure`0" priority="63" />
+      <Item value="FolderBrowserDialog`0" priority="31" />
+      <Item value="FolderBrowserDialog" priority="28" />
+      <Item value="DialogResult`0" priority="31" />
+      <Item value="OK" priority="16" />
+      <Item value="addFolderBrowserDialog" priority="95" />
+      <Item value="Path`0" priority="117" />
+      <Item value="AddDockyIconWindow" priority="144" />
+      <Item value="fileAddDockyIconWindow" priority="288" />
+      <Item value="pathAddDockyIconWindow" priority="31" />
+      <Item value="AddDockyIconWindow`0" priority="159" />
+      <Item value="addDockyIconWindow" priority="259" />
+      <Item value="addIconThroughAddDockyIconWindow`0" priority="63" />
+      <Item value="computerAddMenuItem" priority="127" />
+      <Item value="documentsAddMenuItem" priority="95" />
+      <Item value="picturesAddMenuItem" priority="95" />
+      <Item value="musicAddMenuItem" priority="95" />
+      <Item value="networkAddMenuItem" priority="95" />
+      <Item value="downloadsAddMenuItem" priority="63" />
+      <Item value="gamesAddMenuItem" priority="127" />
+      <Item value="iconLocation" priority="927" />
+      <Item value="launchTarget" priority="287" />
+      <Item value="sender" priority="1151" />
+      <Item value="addSpecialIcon`0" priority="255" />
+      <Item value="animationMenuItem" priority="31" />
+      <Item value="animationEffectMenuItem" priority="255" />
+      <Item value="zoomHoaverEffectMenuItem" priority="287" />
+      <Item value="hoaverEffectMenuItem" priority="127" />
+      <Item value="swingClickEffectMenuItem" priority="191" />
+      <Item value="swingHoaverEffectMenuItem" priority="255" />
+      <Item value="fadeHoaverEffectMenuItem" priority="287" />
+      <Item value="rotateClickEffectMenuItem" priority="191" />
+      <Item value="zoomClickEffectMenuItem" priority="159" />
+      <Item value="clickEffectMenuItem" priority="127" />
+      <Item value="fadeClickEffectMenuItem" priority="159" />
+      <Item value="rotateHoaverEffectMenuItem" priority="223" />
+      <Item value="Type`0" priority="31" />
+      <Item value="Effect" priority="31" />
+      <Item value="setAnimationEffect`0" priority="223" />
+      <Item value="InkCanvasSelectionChangingEventHandler`0" priority="31" />
+      <Item value="iconImageOpenFileDialog" priority="63" />
+      <Item value="IOException`0" priority="31" />
+      <Item value="DockyOptionsWindow`0" priority="255" />
+      <Item value="optionsMenuItem" priority="95" />
+      <Item value="dockyOptionsWindow" priority="1090" />
+      <Item value="DockyOptionsWindow" priority="144" />
+      <Item value="optionListView" priority="223" />
+      <Item value="MouseRightButtonDown" priority="63" />
+      <Item value="DockyOptionsListViewItem`0" priority="31" />
+      <Item value="stackPanel" priority="321" />
+      <Item value="TextAlignment" priority="98" />
+      <Item value="VerticalAlignment" priority="164" />
+      <Item value="generalDockyOptionsListViewItem" priority="63" />
+      <Item value="DockyOptionsListViewItem" priority="28" />
+      <Item value="HorizontalAlignment" priority="130" />
+      <Item value="titleTextBlock" priority="447" />
+      <Item value="styleDockyOptionsListViewItem" priority="63" />
+      <Item value="CustomListViewItem" priority="28" />
+      <Item value="TabControl`0" priority="63" />
+      <Item value="TabControl" priority="28" />
+      <Item value="categoryTabControl" priority="415" />
+      <Item value="DockyOptionsTabItem`0" priority="95" />
+      <Item value="headerContentStackPanel" priority="95" />
+      <Item value="tabControl" priority="160" />
+      <Item value="DockyOptionsTabItem" priority="86" />
+      <Item value="styleDockyOptionsTabItem" priority="63" />
+      <Item value="aboutDockyOptionsTabItem" priority="63" />
+      <Item value="element" priority="448" />
+      <Item value="value" priority="287" />
+      <Item value="defaultButton" priority="223" />
+      <Item value="STANDARD_BUTTON_HEIGHT" priority="415" />
+      <Item value="STANDARD_BUTTON_WIDTH" priority="703" />
+      <Item value="cancelButton" priority="63" />
+      <Item value="Width" priority="64" />
+      <Item value="generalDockyOptionsTabItem" priority="95" />
+      <Item value="generalDockyOptionsCanvas" priority="383" />
+      <Item value="styleDockyOptionsCanvas" priority="351" />
+      <Item value="aboutDockyOptionsCanvas" priority="95" />
+      <Item value="LinearGradientBrush" priority="144" />
+      <Item value="startColor" priority="127" />
+      <Item value="endColor" priority="127" />
+      <Item value="screenPositionLabel" priority="191" />
+      <Item value="ComboBox`0" priority="31" />
+      <Item value="screenPositionComboBox" priority="255" />
+      <Item value="ComboBox" priority="28" />
+      <Item value="screenPositions" priority="63" />
+      <Item value="CustomComboBox`0" priority="127" />
+      <Item value="items" priority="287" />
+      <Item value="CustomComboBox" priority="231" />
+      <Item value="CustomLabel`0" priority="351" />
+      <Item value="CustomLabel" priority="260" />
+      <Item value="ThicknessConverter`0" priority="32" />
+      <Item value="layeringLabel" priority="159" />
+      <Item value="layeringComboBox" priority="95" />
+      <Item value="layering" priority="31" />
+      <Item value="centeringLabel" priority="95" />
+      <Item value="Slider`0" priority="31" />
+      <Item value="centeringSlider" priority="319" />
+      <Item value="Slider" priority="28" />
+      <Item value="CustomSlider`0" priority="31" />
+      <Item value="startSelection" priority="95" />
+      <Item value="endSelection" priority="95" />
+      <Item value="centering" priority="159" />
+      <Item value="edgeOffset" priority="31" />
+      <Item value="edgeOffsetslider" priority="31" />
+      <Item value="CustomSlider" priority="57" />
+      <Item value="edgeOffsetLabel" priority="31" />
+      <Item value="edgeOffsetSlider" priority="31" />
+      <Item value="PredictFocus`0" priority="31" />
+      <Item value="startValue" priority="63" />
+      <Item value="endValue" priority="63" />
+      <Item value="opacityLabel" priority="159" />
+      <Item value="opacitySlider" priority="95" />
+      <Item value="themeLabel" priority="255" />
+      <Item value="DirectoryInfo`0" priority="63" />
+      <Item value="path1" priority="31" />
+      <Item value="path2" priority="31" />
+      <Item value="skinsDirectories" priority="31" />
+      <Item value="themeDirectories" priority="63" />
+      <Item value="themeName" priority="95" />
+      <Item value="themeNo" priority="31" />
+      <Item value="getThemeName`0" priority="95" />
+      <Item value="themeComboBox" priority="223" />
+      <Item value="hoaverEffectLabel" priority="95" />
+      <Item value="hoaverEffectComboBox" priority="95" />
+      <Item value="animationEffects" priority="63" />
+      <Item value="STANDARD_WIDTH" priority="95" />
+      <Item value="clickEffectLabel" priority="127" />
+      <Item value="clickEffectComboBox" priority="63" />
+      <Item value="CheckBox`0" priority="63" />
+      <Item value="showIconLabel" priority="63" />
+      <Item value="showIconLabelCheckBox" priority="255" />
+      <Item value="CheckBox" priority="57" />
+      <Item value="dockyOptionsWindow_centeringSlider_ValueChanged`0" priority="31" />
+      <Item value="DockyIconSettings`0" priority="63" />
+      <Item value="DockyIconSettings" priority="28" />
+      <Item value="iconsListView" priority="415" />
+      <Item value="STANDARD_SEPARATOR_WIDTH" priority="447" />
+      <Item value="GroupBox`0" priority="31" />
+      <Item value="GroupBox" priority="28" />
+      <Item value="generalGroupBox" priority="447" />
+      <Item value="CustomGroupBox`0" priority="191" />
+      <Item value="baseCanvas" priority="511" />
+      <Item value="CustomGroupBox" priority="173" />
+      <Item value="addFileButton" priority="223" />
+      <Item value="addPathButton" priority="159" />
+      <Item value="addSeparatorButton" priority="63" />
+      <Item value="addIconGroupBox" priority="191" />
+      <Item value="STANDARD_SEPARATOR_DISTANCE" priority="1099" />
+      <Item value="organizeIconGroupBox" priority="191" />
+      <Item value="moveFirstButton" priority="223" />
+      <Item value="moveUpButton" priority="319" />
+      <Item value="imageIcon" priority="95" />
+      <Item value="moveDownButton" priority="127" />
+      <Item value="STANDARD_SMALL_ICON_DIMENSION" priority="223" />
+      <Item value="DockyIconSettingsListViewItem`0" priority="95" />
+      <Item value="mainCanvas" priority="159" />
+      <Item value="mainStackPanel" priority="703" />
+      <Item value="STANARD_ICON_DIMENSION" priority="63" />
+      <Item value="descriptionStackPanel" priority="191" />
+      <Item value="baseStackPanel" priority="352" />
+      <Item value="FontWeight`0" priority="32" />
+      <Item value="targetTextBlock" priority="63" />
+      <Item value="List&lt;IconSettings&gt;" priority="57" />
+      <Item value="loadIconList`0" priority="31" />
+      <Item value="dockyIconsListViewItem" priority="255" />
+      <Item value="DockyIconSettingsListViewItem" priority="86" />
+      <Item value="titleStackPanel" priority="95" />
+      <Item value="override" priority="31" />
+      <Item value="dockyIconSettingsWindow" priority="639" />
+      <Item value="addDockyIconWindowForDockyIconsSettings" priority="95" />
+      <Item value="editButton" priority="31" />
+      <Item value="setEnableOrDisableAllOrganizeIconButtons`0" priority="31" />
+      <Item value="NullableBoolConverter`0" priority="31" />
+      <Item value="success" priority="63" />
+      <Item value="Single" priority="16" />
+      <Item value="fileName" priority="159" />
+      <Item value="editAddDockyIconWindow" priority="287" />
+      <Item value="currentSelection" priority="31" />
+      <Item value="index" priority="1535" />
+      <Item value="currentDockyIconSettingsWindowListViewItemIndex" priority="63" />
+      <Item value="Count`1" priority="26" />
+      <Item value="firstTimeRemove" priority="63" />
+      <Item value="GlobalSettingsPath`0" priority="127" />
+      <Item value="portable" priority="31" />
+      <Item value="helpMenuItem" priority="415" />
+      <Item value="contentsMenuItem" priority="255" />
+      <Item value="aboutMenuItem" priority="191" />
+      <Item value="createNewPrimaryDockySettings`0" priority="31" />
+      <Item value="MessageBoxButton`0" priority="31" />
+      <Item value="Menu`0" priority="26" />
+      <Item value="DataObjectEventArgs`0" priority="31" />
+      <Item value="showHelp`0" priority="63" />
+      <Item value="Ringy`0" priority="63" />
+      <Item value="Ringy" priority="28" />
+      <Item value="ringy" priority="95" />
+      <Item value="loadRingy`0" priority="127" />
+      <Item value="mainRingyCanvas" priority="319" />
+      <Item value="PrimaryRingySettings`0" priority="127" />
+      <Item value="settingsPath" priority="127" />
+      <Item value="currentPrimaryRingySettings" priority="1471" />
+      <Item value="PrimaryRingySettings" priority="57" />
+      <Item value="loadPrimaryRingySettings`0" priority="63" />
+      <Item value="createNewPrimaryRingySettingsException" priority="127" />
+      <Item value="createNewPrimaryRingySettings`0" priority="191" />
+      <Item value="loadPrimaryRingySettingsException" priority="95" />
+      <Item value="RichTextBox`0" priority="31" />
+      <Item value="richText" priority="64" />
+      <Item value="RichTextBox" priority="28" />
+      <Item value="txt" priority="95" />
+      <Item value="TextInput" priority="64" />
+      <Item value="win" priority="63" />
+      <Item value="savePrimaryRingySettingsException" priority="31" />
+      <Item value="ImageBrush" priority="28" />
+      <Item value="image" priority="31" />
+      <Item value="STANDARD_BACKGROUND_IMAGE_DIMENSION" priority="159" />
+      <Item value="refreshPrimaryRingySettings`0" priority="31" />
+      <Item value="backgroundStackPanel" priority="223" />
+      <Item value="Grid`0" priority="191" />
+      <Item value="Grid" priority="57" />
+      <Item value="iconGrid" priority="383" />
+      <Item value="RowDefinition`0" priority="31" />
+      <Item value="RowDefinition" priority="57" />
+      <Item value="TOTAL_GRID_ROW_COLUMN" priority="31" />
+      <Item value="ColumnDefinition`0" priority="31" />
+      <Item value="ColumnDefinition" priority="57" />
+      <Item value="TOTAL_NO_OF_GRID_ROW_COLUMN" priority="31" />
+      <Item value="iconGridRowDefinition" priority="63" />
+      <Item value="iconGridColumnDefinition" priority="63" />
+      <Item value="grid" priority="32" />
+      <Item value="Math`0" priority="63" />
+      <Item value="column" priority="127" />
+      <Item value="row" priority="95" />
+      <Item value="primaryRingySettings" priority="322" />
+      <Item value="setToolTip`0" priority="63" />
+      <Item value="logoImage" priority="287" />
+      <Item value="setInitialValue`0" priority="95" />
+      <Item value="currentRingyIconSettings" priority="927" />
+      <Item value="createNewRingyIconSettings`0" priority="95" />
+      <Item value="loadRingyIcons`0" priority="31" />
+      <Item value="ringyContextMenu" priority="223" />
+      <Item value="themeMenuItem" priority="31" />
+      <Item value="showIconLabelMenuItem" priority="95" />
+      <Item value="savePrimaryRingySettings`0" priority="223" />
+      <Item value="refreshRingy`0" priority="351" />
+      <Item value="zoomAnimationEffectMenuItem" priority="127" />
+      <Item value="swingAnimationEffectMenuItem" priority="95" />
+      <Item value="fadeAnimationEffectMenuItem" priority="191" />
+      <Item value="rotateAnimationEffectMenuItem" priority="159" />
+      <Item value="IFormattable`0" priority="63" />
+      <Item value="RingyIconSettingsWindow`0" priority="31" />
+      <Item value="RingyOptionsWindow`0" priority="31" />
+      <Item value="ringyOptionsWindow" priority="768" />
+      <Item value="RingyOptionsWindow" priority="86" />
+      <Item value="ringyOptionsCanvas" priority="512" />
+      <Item value="NewsStyleUriParser`0" priority="31" />
+      <Item value="startPoint" priority="31" />
+      <Item value="generalCanvas" priority="191" />
+      <Item value="iconSettingsCanvas" priority="159" />
+      <Item value="iconSettingsGroupBox" priority="191" />
+      <Item value="themeLocation" priority="63" />
+      <Item value="theme" priority="31" />
+      <Item value="themeNameWithExtention" priority="31" />
+      <Item value="index0" priority="31" />
+      <Item value="animationEffectLabel" priority="127" />
+      <Item value="animationEffectComboBox" priority="31" />
+      <Item value="RingyIconConfigurationCheckBox`0" priority="63" />
+      <Item value="RingyIconConfigurationCheckBox" priority="115" />
+      <Item value="ringyIconConfigurationCheckBox" priority="512" />
+      <Item value="iconDescriptionStackPanel" priority="191" />
+      <Item value="ringyIconSettings" priority="63" />
+      <Item value="startIndex" priority="31" />
+      <Item value="STANDARD_MAX_SHORT_TARGET_LENGTH" priority="63" />
+      <Item value="length" priority="31" />
+      <Item value="GCNotificationStatus`0" priority="95" />
+      <Item value="configureButton" priority="127" />
+      <Item value="familyName" priority="31" />
+      <Item value="IsChecked" priority="31" />
+      <Item value="logoImageCanvas" priority="191" />
+      <Item value="logoImageGroupBox" priority="63" />
+      <Item value="logoImageLocationTextBox" priority="287" />
+      <Item value="logoImageBrowseButton" priority="63" />
+      <Item value="toar" priority="31" />
+      <Item value="logoImageLocation" priority="159" />
+      <Item value="logoImageOpenFileDialog" priority="191" />
+      <Item value="RoutedEventArgs`0" priority="159" />
+      <Item value="setValueForRingyOptionsWindow`0" priority="63" />
+      <Item value="setEventHandlerForRingyOptionsWindow`0" priority="31" />
+      <Item value="AddRingyIconWindow`0" priority="63" />
+      <Item value="totalIcon" priority="31" />
+      <Item value="totalSeparator" priority="31" />
+      <Item value="CenterOwner" priority="16" />
+      <Item value="addRingyIconWindow" priority="32" />
+      <Item value="AddRingyIconWindow" priority="86" />
+      <Item value="Release" priority="16" />
+      <Item value="initialWidth" priority="31" />
+      <Item value="UIElement`0" priority="31" />
+      <Item value="Close`0" priority="31" />
+      <Item value="launcherTypeComboBox" priority="190" />
+      <Item value="IFrameworkInputElement`0" priority="31" />
+      <Item value="sndr" priority="31" />
+      <Item value="setIconForIconButton`0" priority="127" />
+      <Item value="saveRingyIconSettings`0" priority="127" />
+      <Item value="MessageBox" priority="31" />
+      <Item value="default" priority="31" />
+      <Item value="LauncherInfo`0" priority="63" />
+      <Item value="fileShortCutName" priority="63" />
+      <Item value="shortCutFileName" priority="31" />
+      <Item value="AboutWindow`0" priority="127" />
+      <Item value="ThreeDBorderWindow" priority="16" />
+      <Item value="ResizeMode" priority="31" />
+      <Item value="aboutWindow" priority="98" />
+      <Item value="AboutWindow" priority="86" />
+      <Item value="aboutCanvas" priority="95" />
+      <Item value="AboutCanvas`0" priority="31" />
+      <Item value="headerStackPanel" priority="159" />
+      <Item value="TextAlignment`0" priority="65" />
+      <Item value="CustomTextBlock`0" priority="31" />
+      <Item value="CustomTextBlock" priority="115" />
+      <Item value="AboutStackPanel`0" priority="31" />
+      <Item value="aboutStackPanel" priority="128" />
+      <Item value="AboutStackPanel" priority="28" />
+      <Item value="thanksButton" priority="95" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Deviant_Dock.GlassEffect">
+      <Item value="SetIsEnabled`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.CustomImage">
+      <Item value="Height" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Imaging.BitmapImage">
+      <Item value="DecodePixelHeight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomImage">
+      <Item value="MouseEnter" priority="26" />
+      <Item value="MouseLeftButtonDown" priority="80" />
+      <Item value="MouseLeave" priority="26" />
+      <Item value="MouseLeftButtonUp" priority="26" />
+      <Item value="Margin" priority="242" />
+      <Item value="Width" priority="107" />
+      <Item value="ToolTip" priority="53" />
+      <Item value="RenderTransform" priority="26" />
+      <Item value="LayoutTransform" priority="53" />
+      <Item value="Source" priority="107" />
+      <Item value="imageName" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.ControlButton">
+      <Item value="Margin" priority="26" />
+      <Item value="MouseEnter" priority="26" />
+      <Item value="currentIndex" priority="26" />
+      <Item value="imageList" priority="26" />
+      <Item value="width" priority="26" />
+      <Item value="height" priority="26" />
+      <Item value="thickness" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Canvas">
+      <Item value="Children" priority="1970" />
+      <Item value="Width" priority="242" />
+      <Item value="Background" priority="323" />
+      <Item value="ContextMenu" priority="53" />
+      <Item value="Height" priority="188" />
+      <Item value="AllowDrop" priority="26" />
+      <Item value="PreviewDragEnter" priority="26" />
+      <Item value="PreviewDragOver" priority="26" />
+      <Item value="PreviewDrop" priority="26" />
+      <Item value="Margin" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="3485" />
+      <Item value="Clear`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListView">
+      <Item value="Margin" priority="134" />
+      <Item value="Width" priority="242" />
+      <Item value="Height" priority="188" />
+      <Item value="Items" priority="404" />
+      <Item value="Opacity" priority="26" />
+      <Item value="SelectionChanged" priority="26" />
+      <Item value="SelectionMode" priority="26" />
+      <Item value="SelectedItem" priority="53" />
+      <Item value="SelectedValue" priority="26" />
+      <Item value="SelectedItems" priority="26" />
+      <Item value="SelectedIndex" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MenuItem">
+      <Item value="Index" priority="53" />
+      <Item value="Text" priority="80" />
+      <Item value="Click" priority="80" />
+      <Item value="MenuItems" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NotifyIcon">
+      <Item value="Icon" priority="107" />
+      <Item value="Text" priority="26" />
+      <Item value="ContextMenu" priority="26" />
+      <Item value="Visible" priority="80" />
+      <Item value="Click" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ContextMenu">
+      <Item value="MenuItems" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Menu+MenuItemCollection">
+      <Item value="Add`0" priority="188" />
+      <Item value="AddRange`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Content" priority="188" />
+      <Item value="Width" priority="377" />
+      <Item value="HorizontalAlignment" priority="26" />
+      <Item value="Margin" priority="296" />
+      <Item value="Click" priority="350" />
+      <Item value="IsEnabled" priority="215" />
+      <Item value="Height" priority="107" />
+      <Item value="ContentStringFormat" priority="26" />
+      <Item value="MouseEnter" priority="26" />
+      <Item value="ToolTip" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomButton">
+      <Item value="Content" priority="53" />
+      <Item value="Width" priority="323" />
+      <Item value="Height" priority="323" />
+      <Item value="Margin" priority="593" />
+      <Item value="Click" priority="566" />
+      <Item value="IsEnabled" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Error" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="810" />
+      <Item value="Clear`0" priority="269" />
+      <Item value="Refresh`0" priority="26" />
+      <Item value="IndexOf`0" priority="26" />
+      <Item value="GetItemAt`0" priority="26" />
+      <Item value="CurrentItem" priority="26" />
+      <Item value="Indexer" priority="26" />
+      <Item value="RemoveAt`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockListViewItem">
+      <Item value="Content" priority="26" />
+      <Item value="addButton" priority="134" />
+      <Item value="removeButton" priority="107" />
+      <Item value="onOrOff`0" priority="26" />
+      <Item value="notifyIconMenuItem" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Background" priority="161" />
+      <Item value="Children" priority="1160" />
+      <Item value="Orientation" priority="296" />
+      <Item value="HorizontalAlignment" priority="53" />
+      <Item value="Width" priority="53" />
+      <Item value="VerticalAlignment" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="Margin" priority="26" />
+      <Item value="IsEnabled" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.DockPanel">
+      <Item value="SetDock`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Dock">
+      <Item value="Left" priority="53" />
+      <Item value="Right" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DockPanel">
+      <Item value="Children" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontWeights">
+      <Item value="Bold" priority="111" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Red" priority="26" />
+      <Item value="Transparent" priority="107" />
+      <Item value="White" priority="377" />
+      <Item value="Turquoise" priority="26" />
+      <Item value="DarkGray" priority="26" />
+      <Item value="Blue" priority="53" />
+      <Item value="Aqua" priority="26" />
+      <Item value="LightGray" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
+      <Item value="Center" priority="26" />
+      <Item value="Right" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontStyles">
+      <Item value="Italic" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Deviant_Dock.PrimarySettings+InitialDockConfiguration">
+      <Item value="Docky" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Deserialize`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.PrimarySettings">
+      <Item value="Docky" priority="188" />
+      <Item value="Ringy" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="323" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Error" priority="107" />
+      <Item value="Warning" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Split`0" priority="80" />
+      <Item value="Trim`0" priority="134" />
+      <Item value="Length" priority="53" />
+      <Item value="Substring`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="1646" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.SystemParameters">
+      <Item value="PrimaryScreenWidth" priority="107" />
+      <Item value="PrimaryScreenHeight" priority="26" />
+      <Item value="FullPrimaryScreenHeight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.Docky">
+      <Item value="Visibility" priority="80" />
+      <Item value="Hide`0" priority="53" />
+      <Item value="Close`0" priority="108" />
+      <Item value="Width" priority="188" />
+      <Item value="Height" priority="161" />
+      <Item value="Title" priority="26" />
+      <Item value="Name" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="Content" priority="80" />
+      <Item value="Background" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="AllowsTransparency" priority="26" />
+      <Item value="Top" priority="80" />
+      <Item value="Left" priority="107" />
+      <Item value="ContextMenu" priority="80" />
+      <Item value="Topmost" priority="53" />
+      <Item value="PreviewDragEnter" priority="26" />
+      <Item value="MouseLeftButtonUp" priority="26" />
+      <Item value="dockyListViewItem" priority="53" />
+      <Item value="animationEffectMenuItem" priority="26" />
+      <Item value="Opacity" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.PrimaryDockySettings">
+      <Item value="totalIcon" priority="485" />
+      <Item value="totalSeparator" priority="377" />
+      <Item value="opacity" priority="107" />
+      <Item value="screenPosition" priority="647" />
+      <Item value="edgeOffset" priority="242" />
+      <Item value="skin" priority="26" />
+      <Item value="theme" priority="269" />
+      <Item value="hoaverEffect" priority="458" />
+      <Item value="clickEffect" priority="323" />
+      <Item value="layering" priority="161" />
+      <Item value="showIconLabel" priority="242" />
+      <Item value="iconLabelColor" priority="53" />
+      <Item value="iconLabelFontSize" priority="27" />
+      <Item value="iconLabelFontFamily" priority="54" />
+      <Item value="centering" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="107" />
+      <Item value="Open`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Color">
+      <Item value="FromRgb`0" priority="323" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.MenuItem">
+      <Item value="Header" priority="188" />
+      <Item value="Click" priority="107" />
+      <Item value="Items" priority="134" />
+      <Item value="Icon" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ContextMenu">
+      <Item value="Items" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AnimatedIcon">
+      <Item value="iconTitle" priority="108" />
+      <Item value="target" priority="26" />
+      <Item value="hoaverEffect" priority="107" />
+      <Item value="clickEffect" priority="134" />
+      <Item value="Margin" priority="242" />
+      <Item value="Source" priority="26" />
+      <Item value="Width" priority="107" />
+      <Item value="Height" priority="107" />
+      <Item value="LayoutTransform" priority="26" />
+      <Item value="MouseEnter" priority="53" />
+      <Item value="RenderTransform" priority="80" />
+      <Item value="primaryDockySettings" priority="27" />
+      <Item value="MouseLeftButtonDown" priority="53" />
+      <Item value="BeginAnimation`0" priority="80" />
+      <Item value="iconImage" priority="26" />
+      <Item value="Children" priority="53" />
+      <Item value="ToolTip" priority="26" />
+      <Item value="ContextMenu" priority="53" />
+      <Item value="screenPosition" priority="80" />
+      <Item value="Effect" priority="26" />
+      <Item value="imageName" priority="26" />
+      <Item value="showIconLabel" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="710" />
+      <Item value="IndexOf`0" priority="26" />
+      <Item value="Last`1" priority="26" />
+      <Item value="Remove`0" priority="26" />
+      <Item value="Count" priority="188" />
+      <Item value="RemoveAt`0" priority="108" />
+      <Item value="Insert`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.IconSettings">
+      <Item value="imageLocation" priority="539" />
+      <Item value="iconTitle" priority="566" />
+      <Item value="target" priority="296" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="IsExternal" priority="53" />
+      <Item value="iconNo" priority="323" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1059" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.Separator">
+      <Item value="separatorImage" priority="26" />
+      <Item value="getSeparator`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.TransformGroup">
+      <Item value="Children" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.TransformCollection">
+      <Item value="Add`0" priority="83" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.ScaleTransform">
+      <Item value="CenterX" priority="53" />
+      <Item value="CenterY" priority="53" />
+      <Item value="BeginAnimation`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.DoubleAnimation">
+      <Item value="From" priority="188" />
+      <Item value="To" priority="188" />
+      <Item value="AutoReverse" priority="134" />
+      <Item value="Duration" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.ScaleTransform">
+      <Item value="ScaleXProperty" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromMilliseconds`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Deviant_Dock.AnimatedIcon">
+      <Item value="HeightProperty" priority="80" />
+      <Item value="MarginProperty" priority="27" />
+      <Item value="MinHeightProperty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Thickness">
+      <Item value="Left" priority="1079" />
+      <Item value="Top" priority="1214" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Extension" priority="215" />
+      <Item value="Name" priority="80" />
+      <Item value="FullName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="512" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists`0" priority="161" />
+      <Item value="CreateDirectory`0" priority="53" />
+      <Item value="GetCurrentDirectory`0" priority="134" />
+      <Item value="GetDirectories`0" priority="26" />
+      <Item value="GetFiles`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.FileToIconConverter">
+      <Item value="GetImage`0" priority="26" />
+      <Item value="ClearInstanceCache`0" priority="26" />
+      <Item value="DefaultSize" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IWshRuntimeLibrary.WshShortcut">
+      <Item value="TargetPath" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DragEventArgs">
+      <Item value="GetPosition`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Point">
+      <Item value="X" priority="26" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomRemoveMenuItem">
+      <Item value="Header" priority="53" />
+      <Item value="iconSettings" priority="53" />
+      <Item value="Click" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomMenuItem">
+      <Item value="Items" priority="378" />
+      <Item value="Click" priority="1106" />
+      <Item value="IsChecked" priority="1484" />
+      <Item value="Header" priority="26" />
+      <Item value="IsCheckable" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.NotifyIconMenuItem">
+      <Item value="Text" priority="53" />
+      <Item value="Checked" priority="107" />
+      <Item value="Enabled" priority="107" />
+      <Item value="Click" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AddIconWindow">
+      <Item value="Visibility" priority="107" />
+      <Item value="Width" priority="161" />
+      <Item value="Height" priority="134" />
+      <Item value="Content" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="TabIndex" priority="26" />
+      <Item value="Title" priority="26" />
+      <Item value="closeButton" priority="26" />
+      <Item value="Close`0" priority="26" />
+      <Item value="type" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Visible" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="80" />
+      <Item value="Margin" priority="242" />
+      <Item value="Height" priority="26" />
+      <Item value="Width" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Width" priority="269" />
+      <Item value="Margin" priority="323" />
+      <Item value="Text" priority="836" />
+      <Item value="AcceptsReturn" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="134" />
+      <Item value="FileName" priority="189" />
+      <Item value="InitialDirectory" priority="80" />
+      <Item value="Filter" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileNameWithoutExtension`0" priority="80" />
+      <Item value="Combine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="SelectedPath" priority="53" />
+      <Item value="Description" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AddDockyIconWindow">
+      <Item value="Visibility" priority="80" />
+      <Item value="saveButton" priority="107" />
+      <Item value="iconImage" priority="107" />
+      <Item value="titleTextBox" priority="134" />
+      <Item value="targetTextBox" priority="134" />
+      <Item value="Close`0" priority="53" />
+      <Item value="iconButton" priority="26" />
+      <Item value="Topmost" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="296" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockyOptionsWindow">
+      <Item value="Width" priority="296" />
+      <Item value="Height" priority="161" />
+      <Item value="Visibility" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="WindowState" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="Title" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="Topmost" priority="26" />
+      <Item value="MouseLeftButtonDown" priority="26" />
+      <Item value="DragMove`0" priority="26" />
+      <Item value="Close`0" priority="80" />
+      <Item value="screenPositionComboBox" priority="80" />
+      <Item value="layeringComboBox" priority="107" />
+      <Item value="centeringSlider" priority="107" />
+      <Item value="edgeOffsetSlider" priority="134" />
+      <Item value="opacitySlider" priority="80" />
+      <Item value="themeComboBox" priority="80" />
+      <Item value="hoaverEffectComboBox" priority="108" />
+      <Item value="clickEffectComboBox" priority="107" />
+      <Item value="showIconLabelCheckBox" priority="134" />
+      <Item value="defaultButton" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.Contents.DockyOptionsListViewItem">
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="134" />
+      <Item value="HorizontalAlignment" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TabControl">
+      <Item value="Background" priority="26" />
+      <Item value="Width" priority="53" />
+      <Item value="Height" priority="53" />
+      <Item value="Margin" priority="26" />
+      <Item value="Items" priority="53" />
+      <Item value="TabStripPlacement" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockyOptionsTabItem">
+      <Item value="Content" priority="107" />
+      <Item value="Header" priority="80" />
+      <Item value="Background" priority="26" />
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Items" priority="53" />
+      <Item value="Width" priority="26" />
+      <Item value="Margin" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomComboBox">
+      <Item value="Items" priority="26" />
+      <Item value="Margin" priority="188" />
+      <Item value="Width" priority="80" />
+      <Item value="SelectedValue" priority="674" />
+      <Item value="SelectionChanged" priority="242" />
+      <Item value="SelectedItem" priority="26" />
+      <Item value="SelectedIndex" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomLabel">
+      <Item value="Content" priority="26" />
+      <Item value="Margin" priority="485" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Slider">
+      <Item value="Width" priority="26" />
+      <Item value="SelectionStart" priority="26" />
+      <Item value="SelectionEnd" priority="26" />
+      <Item value="Margin" priority="26" />
+      <Item value="Ticks" priority="26" />
+      <Item value="IsSnapToTickEnabled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomSlider">
+      <Item value="Width" priority="53" />
+      <Item value="SelectionStart" priority="26" />
+      <Item value="SelectionEnd" priority="26" />
+      <Item value="Margin" priority="80" />
+      <Item value="Value" priority="323" />
+      <Item value="Ticks" priority="26" />
+      <Item value="Minimum" priority="26" />
+      <Item value="Maximum" priority="26" />
+      <Item value="ToolTip" priority="53" />
+      <Item value="ValueChanged" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="Content" priority="53" />
+      <Item value="Margin" priority="53" />
+      <Item value="IsChecked" priority="215" />
+      <Item value="Checked" priority="53" />
+      <Item value="Click" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockyIconSettings">
+      <Item value="Width" priority="107" />
+      <Item value="Height" priority="188" />
+      <Item value="Visibility" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="Title" priority="26" />
+      <Item value="Topmost" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="dockyIconSettings" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.GroupBox">
+      <Item value="Header" priority="26" />
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomGroupBox">
+      <Item value="Header" priority="26" />
+      <Item value="Width" priority="134" />
+      <Item value="Height" priority="242" />
+      <Item value="Margin" priority="188" />
+      <Item value="Content" priority="107" />
+      <Item value="groupBoxCanvas" priority="215" />
+      <Item value="CheckAccess`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockyIconSettingsListViewItem">
+      <Item value="Content" priority="81" />
+      <Item value="iconImage" priority="53" />
+      <Item value="titleTextBlock" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Orientation">
+      <Item value="Horizontal" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.DockyIconSettingsWindow">
+      <Item value="iconsListView" priority="323" />
+      <Item value="addFileButton" priority="26" />
+      <Item value="addPathButton" priority="26" />
+      <Item value="addSeparatorButton" priority="26" />
+      <Item value="editButton" priority="80" />
+      <Item value="setEnableOrDisableAllOrganizeIconButtons`0" priority="80" />
+      <Item value="removeButton" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.GlobalSettingsPath">
+      <Item value="path" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.Ringy">
+      <Item value="Visibility" priority="53" />
+      <Item value="Width" priority="188" />
+      <Item value="Height" priority="134" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="Close`0" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="AllowDrop" priority="26" />
+      <Item value="AllowsTransparency" priority="26" />
+      <Item value="Background" priority="26" />
+      <Item value="ContextMenu" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.PrimaryRingySettings">
+      <Item value="theme" priority="215" />
+      <Item value="showIconLabel" priority="296" />
+      <Item value="hoaverEffect" priority="215" />
+      <Item value="logoImageLocation" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.SerializationException">
+      <Item value="StackTrace" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="Content" priority="26" />
+      <Item value="Visibility" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="ShowGridLines" priority="26" />
+      <Item value="CheckAccess`0" priority="26" />
+      <Item value="Children" priority="161" />
+      <Item value="RowDefinitions" priority="26" />
+      <Item value="ColumnDefinitions" priority="26" />
+      <Item value="Background" priority="26" />
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RowDefinitionCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ColumnDefinitionCollection">
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Grid">
+      <Item value="SetRow`0" priority="53" />
+      <Item value="SetColumn`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.RingyOptionsWindow">
+      <Item value="Width" priority="107" />
+      <Item value="Height" priority="134" />
+      <Item value="Visibility" priority="26" />
+      <Item value="Topmost" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="ResizeMode" priority="27" />
+      <Item value="Title" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="Close`0" priority="53" />
+      <Item value="logoImageLocation" priority="26" />
+      <Item value="animationEffectComboBox" priority="80" />
+      <Item value="themeComboBox" priority="107" />
+      <Item value="showIconLabelCheckBox" priority="134" />
+      <Item value="logoImageBrowseButton" priority="53" />
+      <Item value="setLogoImageComponents`0" priority="53" />
+      <Item value="defaultButton" priority="26" />
+      <Item value="Left" priority="53" />
+      <Item value="Top" priority="26" />
+      <Item value="ringyIconConfigurationCheckBox" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.RingyIconConfigurationCheckBox">
+      <Item value="Content" priority="26" />
+      <Item value="iconNo" priority="54" />
+      <Item value="Margin" priority="26" />
+      <Item value="iconTitle" priority="134" />
+      <Item value="target" priority="215" />
+      <Item value="iconLocation" priority="80" />
+      <Item value="shortTarget" priority="81" />
+      <Item value="IsChecked" priority="215" />
+      <Item value="Checked" priority="53" />
+      <Item value="Click" priority="80" />
+      <Item value="ClickMode" priority="26" />
+      <Item value="addRingyIconWindow" priority="350" />
+      <Item value="configureButton" priority="134" />
+      <Item value="setContents`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="ProgramFiles" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AddRingyIconWindow">
+      <Item value="Width" priority="80" />
+      <Item value="Height" priority="27" />
+      <Item value="Visibility" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="Title" priority="26" />
+      <Item value="Topmost" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="type" priority="26" />
+      <Item value="browseButton" priority="26" />
+      <Item value="titleTextBox" priority="134" />
+      <Item value="targetTextBox" priority="107" />
+      <Item value="iconImage" priority="107" />
+      <Item value="setIconForIconButton`0" priority="26" />
+      <Item value="launcherTypeComboBox" priority="26" />
+      <Item value="saveButton" priority="26" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Deviant_Dock.GlobalSettingsPath">
+      <Item value="path" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.LauncherInfo">
+      <Item value="target" priority="350" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AboutWindow">
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="Visibility" priority="26" />
+      <Item value="WindowStyle" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="Icon" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="Title" priority="26" />
+      <Item value="ShowInTaskbar" priority="26" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.ResizeMode">
+      <Item value="CanMinimize" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.WindowStyle">
+      <Item value="None" priority="27" />
+      <Item value="ToolWindow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AboutCanvas">
+      <Item value="Background" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Orientation">
+      <Item value="Horizontal" priority="26" />
+      <Item value="Vertical" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.AboutStackPanel">
+      <Item value="Children" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextAlignment">
+      <Item value="Center" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Deviant_Dock.CustomTextBlock">
+      <Item value="Text" priority="26" />
+      <Item value="TextAlignment" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

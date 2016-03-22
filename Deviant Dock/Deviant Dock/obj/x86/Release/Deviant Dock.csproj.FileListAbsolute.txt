@@ -1,0 +1,28 @@
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csproj.ResolveComReference.cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\bin\Release\Deviant Dock.exe
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\bin\Release\Deviant Dock.pdb
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csprojResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\MainWindow.baml
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\MainWindow.g.cs
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\App.g.cs
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock_MarkupCompile.cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.g.resources
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant_Dock.Properties.Resources.resources
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csproj.GenerateResource.Cache
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.exe
+C:\Users\Zunayed Hassan\Documents\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.pdb
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csproj.ResolveComReference.cache
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.exe
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.pdb
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\bin\Release\Deviant Dock.exe
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\bin\Release\Deviant Dock.pdb
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csprojResolveAssemblyReference.cache
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\MainWindow.baml
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\MainWindow.g.cs
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\App.g.cs
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock_MarkupCompile.cache
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.g.resources
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant_Dock.Properties.Resources.resources
+C:\Users\Zunayed Hassan\Desktop\dev_Deviant_Dock_v1_x86\Visual Studio 2010\Projects\Deviant Dock\Deviant Dock\obj\x86\Release\Deviant Dock.csproj.GenerateResource.Cache
